@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://justinwu1973.github.io/categories/index.html</loc>
+    <loc>http://justinwu1973.github.io/2020/12/09/GitHub%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/</loc>
     
     <lastmod>2020-12-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://justinwu1973.github.io/2020/12/09/GitHub%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/</loc>
+    <loc>http://justinwu1973.github.io/categories/index.html</loc>
     
     <lastmod>2020-12-09</lastmod>
     
@@ -67,7 +67,7 @@
   </url>
   
   <url>
-    <loc>http://justinwu1973.github.io/tags/Github-building/</loc>
+    <loc>http://justinwu1973.github.io/tags/Blog-building/</loc>
     <lastmod>2020-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -77,6 +77,13 @@
   
   <url>
     <loc>http://justinwu1973.github.io/categories/Test/</loc>
+    <lastmod>2020-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://justinwu1973.github.io/categories/GitHub/</loc>
     <lastmod>2020-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
