@@ -111,7 +111,7 @@
     <link href="http://justinwu1973.github.io/2020/12/07/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/"/>
     <id>http://justinwu1973.github.io/2020/12/07/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/</id>
     <published>2020-12-07T14:19:31.541Z</published>
-    <updated>2020-12-11T13:03:45.052Z</updated>
+    <updated>2020-12-11T13:46:45.287Z</updated>
     
     <content type="html"><![CDATA[<p>Markdown语法中上下标写法</p><p>语法: <code>A&lt;sub&gt;b&lt;/sub&gt;</code></p><p>显示效果：A<sub>b</sub></p><p>语法：<code>A&lt;sup&gt;b&lt;/sup&gt;</code></p><p>显示效果：A<sup>b</sup></p>]]></content>
     
