@@ -6,7 +6,7 @@
   <link href="http://justinwu1973.github.io/atom.xml" rel="self"/>
   
   <link href="http://justinwu1973.github.io/"/>
-  <updated>2020-12-11T04:40:03.803Z</updated>
+  <updated>2020-12-11T16:57:43.073Z</updated>
   <id>http://justinwu1973.github.io/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>狗</title>
+    <link href="http://justinwu1973.github.io/2020/12/11/%E7%8B%97/"/>
+    <id>http://justinwu1973.github.io/2020/12/11/%E7%8B%97/</id>
+    <published>2020-12-10T16:00:00.000Z</published>
+    <updated>2020-12-11T16:57:43.073Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    总共就见过三次“狗”。</p><p>   “狗”是乡下奶奶的，土狗，没名字，就叫“狗”了。</p><p>   第一次见“狗”，奶奶还健旺，“狗”也还是小奶狗，满地撒欢两头乱蹿地玩得不亦乐乎。谁喊“狗”都要扑过来确认一下再猛摇尾巴扑向下一个。</p><p>   第二次已是数年以后，奶奶已经卧病不起了。那天正下雨，我们去的时候，看见“狗”垂头丧气地蹲在后门口看着雨帘发呆，喊“狗”，半晌才漠然回头看一眼，眼神也没了焦点。</p><p>​    奶奶终于过世了。于是也见了“狗”最后一次。居然是在餐桌上了。我疑惑犹豫地轻声喊：“狗？”仿佛依稀听到它精神抖擞地“汪”了一声，转身化作汤锅里的一缕英魂或芳魂。大伯二伯盛情邀我动手，然而我却不知怎的，呆呆的，下不去筷了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​    总共就见过三次“狗”。&lt;/p&gt;
+&lt;p&gt;   “狗”是乡下奶奶的，土狗，没名字，就叫“狗”了。&lt;/p&gt;
+&lt;p&gt;   第一次见“狗”，奶奶还健旺，“狗”也还是小奶狗，满地撒欢两头乱蹿地玩得不亦乐乎。谁喊“狗”都要扑过来确认一下再猛摇尾巴扑向下一个。&lt;/p&gt;
+&lt;p&gt;  </summary>
+      
+    
+    
+    
+    <category term="散文" scheme="http://justinwu1973.github.io/categories/%E6%95%A3%E6%96%87/"/>
+    
+    
+    <category term="散文" scheme="http://justinwu1973.github.io/tags/%E6%95%A3%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown上下标写法</title>
+    <link href="http://justinwu1973.github.io/2020/12/11/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/"/>
+    <id>http://justinwu1973.github.io/2020/12/11/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/</id>
+    <published>2020-12-10T16:00:00.000Z</published>
+    <updated>2020-12-11T16:58:20.849Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown语法中上下标写法</p><p>语法: <code>A&lt;sub&gt;b&lt;/sub&gt;</code></p><p>显示效果：A<sub>b</sub></p><p>语法：<code>A&lt;sup&gt;b&lt;/sup&gt;</code></p><p>显示效果：A<sup>b</sup></p>]]></content>
+    
+    
+    <summary type="html">Markdown技巧</summary>
+    
+    
+    
+    <category term="Markdown" scheme="http://justinwu1973.github.io/categories/Markdown/"/>
+    
+    
+    <category term="技巧" scheme="http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>GitHub 博客搭建经验</title>
@@ -76,54 +124,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>狗</title>
-    <link href="http://justinwu1973.github.io/2020/12/07/%E7%8B%97/"/>
-    <id>http://justinwu1973.github.io/2020/12/07/%E7%8B%97/</id>
-    <published>2020-12-07T14:19:31.541Z</published>
-    <updated>2020-12-11T05:25:30.313Z</updated>
-    
-    <content type="html"><![CDATA[<p>​    总共就见过三次“狗”。</p><p>   “狗”是乡下奶奶的，土狗，没名字，就叫“狗”了。</p><p>   第一次见“狗”，奶奶还健旺，“狗”也还是小奶狗，满地撒欢两头乱蹿地玩得不亦乐乎。谁喊“狗”都要扑过来确认一下再猛摇尾巴扑向下一个。</p><p>   第二次已是数年以后，奶奶已经卧病不起了。那天正下雨，我们去的时候，看见“狗”垂头丧气地蹲在后门口看着雨帘发呆，喊“狗”，半晌才漠然回头看一眼，眼神也没了焦点。</p><p>​    奶奶终于过世了。于是也见了“狗”最后一次。居然是在餐桌上了。我疑惑犹豫地轻声喊：“狗？”仿佛依稀听到它精神抖擞地“汪”了一声，转身化作汤锅里的一缕英魂或芳魂。大伯二伯盛情邀我动手，然而我却不知怎的，呆呆的，下不去筷了。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;​    总共就见过三次“狗”。&lt;/p&gt;
-&lt;p&gt;   “狗”是乡下奶奶的，土狗，没名字，就叫“狗”了。&lt;/p&gt;
-&lt;p&gt;   第一次见“狗”，奶奶还健旺，“狗”也还是小奶狗，满地撒欢两头乱蹿地玩得不亦乐乎。谁喊“狗”都要扑过来确认一下再猛摇尾巴扑向下一个。&lt;/p&gt;
-&lt;p&gt;  </summary>
-      
-    
-    
-    
-    <category term="散文" scheme="http://justinwu1973.github.io/categories/%E6%95%A3%E6%96%87/"/>
-    
-    
-    <category term="散文" scheme="http://justinwu1973.github.io/tags/%E6%95%A3%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown上下标写法</title>
-    <link href="http://justinwu1973.github.io/2020/12/07/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/"/>
-    <id>http://justinwu1973.github.io/2020/12/07/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/</id>
-    <published>2020-12-07T14:19:31.541Z</published>
-    <updated>2020-12-11T13:46:45.287Z</updated>
-    
-    <content type="html"><![CDATA[<p>Markdown语法中上下标写法</p><p>语法: <code>A&lt;sub&gt;b&lt;/sub&gt;</code></p><p>显示效果：A<sub>b</sub></p><p>语法：<code>A&lt;sup&gt;b&lt;/sup&gt;</code></p><p>显示效果：A<sup>b</sup></p>]]></content>
-    
-    
-    <summary type="html">Markdown技巧</summary>
-    
-    
-    
-    <category term="Markdown" scheme="http://justinwu1973.github.io/categories/Markdown/"/>
-    
-    
-    <category term="技巧" scheme="http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
