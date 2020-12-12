@@ -127,4 +127,30 @@
     
   </entry>
   
+  <entry>
+    <title>Mac环境中利用模板自动生成新博客文章</title>
+    <link href="http://justinwu1973.github.io/2020/12/07/Mac%E4%B8%AD%E8%87%AA%E5%8A%A8%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://justinwu1973.github.io/2020/12/07/Mac%E4%B8%AD%E8%87%AA%E5%8A%A8%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-12-07T14:19:31.541Z</published>
+    <updated>2020-12-12T14:32:36.091Z</updated>
+    
+    <content type="html"><![CDATA[<p>Mac平台之所以凶猛，就是因为有很多实用的功能没有放到表面上来。</p><p>标题中提到的功能，一般人都不知道该用什么方法来实现，只能老老实实进入终端去hexo n。说实话，没事就挂个终端窗口冒充码农可能是有一点阴暗的心理快感的，但也就仅此而已。</p><p>今天就介绍一下“自动操作”这个Mac原生软件。</p><p>![截屏2020-12-12 22.20.26](/Users/justinwu/Desktop/Blog/source/pics/截屏2020-12-12 22.20.26.png)</p><p>有苹果的小朋友可以自己进去摸索一下。</p><p>![截屏2020-12-12 22.23.05](/Users/justinwu/Desktop/Blog/source/pics/截屏2020-12-12 22.23.05.png)</p><p>因为这个步骤很简单，就是在哪个地方放个模板，然后找到它，复制它，重命名，三个步骤就完成了。</p><p>需要提醒的是，新建工作流的时候请选择应用程序，完成之后就可以拖到桌面或者程序坞，想写文章的时候就一键直达了。记得工作流走到重命名这一步的时候在选项中选择显示此操作，要不然命名就自动走过去了，不会让你输入文件名的哦。</p><p>啊哈，还忘记了一个流程。最后添加一个“打开访达项目”的流程，就直接打开新建的文件了，真正做到一键新建文档了哦。至于怎么操作，有了上面的基础，应该完全没问题了吧？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Mac平台之所以凶猛，就是因为有很多实用的功能没有放到表面上来。&lt;/p&gt;
+&lt;p&gt;标题中提到的功能，一般人都不知道该用什么方法来实现，只能老老实实进入终端去hexo n。说实话，没事就挂个终端窗口冒充码农可能是有一点阴暗的心理快感的，但也就仅此而已。&lt;/p&gt;
+&lt;p&gt;今天就介绍</summary>
+      
+    
+    
+    
+    <category term="GitHub" scheme="http://justinwu1973.github.io/categories/GitHub/"/>
+    
+    
+    <category term="技巧" scheme="http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
 </feed>
