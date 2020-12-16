@@ -109,14 +109,14 @@
 
   
   <url>
-    <loc>http://justinwu1973.github.io/tags/Blog-building/</loc>
+    <loc>http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://justinwu1973.github.io/tags/Blog-building/</loc>
     <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -139,14 +139,14 @@
 
   
   <url>
-    <loc>http://justinwu1973.github.io/categories/GitHub/</loc>
+    <loc>http://justinwu1973.github.io/categories/Markdown/</loc>
     <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://justinwu1973.github.io/categories/Markdown/</loc>
+    <loc>http://justinwu1973.github.io/categories/GitHub/</loc>
     <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
