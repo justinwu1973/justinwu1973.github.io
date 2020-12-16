@@ -6,7 +6,7 @@
   <link href="http://justinwu1973.github.io/atom.xml" rel="self"/>
   
   <link href="http://justinwu1973.github.io/"/>
-  <updated>2020-12-14T23:55:29.036Z</updated>
+  <updated>2020-12-16T07:29:55.526Z</updated>
   <id>http://justinwu1973.github.io/</id>
   
   <author>
@@ -17,9 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Markdown中数学公式的写法</title>
+    <link href="http://justinwu1973.github.io/2020/12/16/20-12-16MathFuction/"/>
+    <id>http://justinwu1973.github.io/2020/12/16/20-12-16MathFuction/</id>
+    <published>2020-12-16T05:45:00.000Z</published>
+    <updated>2020-12-16T07:29:55.526Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Markdown支持LaTeX数学公式语法，iPad上有支持编辑公式的软件，两者结合可以迅速制作公式。</p></blockquote><hr><h3 id="Markdown内公式语法"><a href="#Markdown内公式语法" class="headerlink" title="Markdown内公式语法"></a>Markdown内公式语法</h3><p>Typora内建支持LaTeX语法，需要在偏好设置中选中，重启Typora后生效，就可以写入公式了。</p><p><a href="https://imgchr.com/i/rl0DbQ"><img src="https://s3.ax1x.com/2020/12/16/rl0DbQ.md.png" alt="rl0DbQ.md.png"></a></p><p>公式前后用一个<code>$</code>，公式就显示在行内，用两个<code>$</code>，公式就显示为块。</p><p>示例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">如果这么写$dx&#x3D;\int^&#123;\infty &#125;_&#123;0&#125; \frac&#123;x^&#123;m-1&#125;&#125;&#123;(1+x)^&#123;m+n&#125;&#125; dx$那就会这样</span><br></pre></td></tr></table></figure><p>显示：如果这么写$dx=\int^{\infty }_{0} \frac{x^{m-1}}{(1+x)^{m+n}} dx$那就会这样</p><p>示例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">如果这么写</span><br><span class="line">$$</span><br><span class="line">\beta \left( m,n\right)  &#x3D;\int^&#123;1&#125;_&#123;0&#125; x^&#123;m-1&#125;\left( 1-x\right)^&#123;n-1&#125;  \  dx&#x3D;2\  \int^&#123;\pi &#x2F;2&#125;_&#123;0&#125; \  sin^&#123;2m-1&#125;x\  cos^&#123;2n-1&#125;x\  dx&#x3D;\int^&#123;\infty &#125;_&#123;0&#125; \frac&#123;x^&#123;m-1&#125;&#125;&#123;(1+x)^&#123;m+n&#125;&#125; dx</span><br><span class="line">$$</span><br><span class="line">那就会这样</span><br></pre></td></tr></table></figure><p>显示：<br>如果这么写<br>$$<br>\beta \left( m,n\right)  =\int^{1}<em>{0} x^{m-1}\left( 1-x\right)^{n-1}  \  dx=2\  \int^{\pi /2}</em>{0} \  sin^{2m-1}x\  cos^{2n-1}x\  dx=\int^{\infty }_{0} \frac{x^{m-1}}{(1+x)^{m+n}} dx<br>$$<br>那就会这样</p><p>顺便说一下，代码块和公式块写法。</p><p>代码块首行用三个反引号，就是ESC键下面那个跟“ ~ ”在一起的键。结束也是一样。</p><p>公式块用的两个$$也是要单独成行的，否则就跟行内公式没有区别。</p><p>在行内使用特殊字符会自动转换，比如$xyz​$，会变成行内公式，如果不想它变成公式，那就要在$前面加上反斜杠\，每个$前面都要加，使用反引号也可以，但是会把反引号里的内容变成行内代码块，比如<code>$xyz$</code>.</p><p>下图就是上面这个段落的源代码。</p><p><a href="https://imgchr.com/i/rlBEM8"><img src="https://s3.ax1x.com/2020/12/16/rlBEM8.md.png" alt="rlBEM8.md.png"></a></p><hr><h3 id="iPad里公式编辑软件推荐"><a href="#iPad里公式编辑软件推荐" class="headerlink" title="iPad里公式编辑软件推荐"></a>iPad里公式编辑软件推荐</h3><p>iPad上有一些免费或付费的公式编辑软件，有手绘公式的也有键盘输入的。一般不推荐手绘公式，上图中那些π呀int符号在手绘过程中经常被误认，可能公式没画完人就已经疯了。所以还是推荐下面这个键盘输入的xFomula，30块，少喝一杯奶茶就有了，受益终身。</p><p><a href="https://imgchr.com/i/rlaPje"><img src="https://s3.ax1x.com/2020/12/16/rlaPje.md.jpg" alt="rlaPje.md.jpg"></a></p><p>注意到APP里符号字母和数学公式的形态还是相当全的，探索一下键盘还挺有趣的。</p><p><a href="https://imgchr.com/i/rlU71U"><img src="https://s3.ax1x.com/2020/12/16/rlU71U.md.jpg" alt="rlU71U.md.jpg"></a></p><p>最右下角的那个图片按钮，点进去可以选LaTeX公式导出或者直接图像导出，拷贝后可以直接在Mac上粘贴到Markdown文档中去，非Mac的同学也可以尝试其他方式，据说最近有发布跨iOS和win平台的复制粘贴APP。</p><p><a href="https://imgchr.com/i/rlUioq"><img src="https://s3.ax1x.com/2020/12/16/rlUioq.md.jpg" alt="rlUioq.md.jpg"></a></p><hr><h3 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h3><p>照例要写在最后。</p><p>接触LaTeX语法其实早在两三年之前了，初中的老师要求做错题整理甚至给张报纸让把其中的一些题目编辑成Word文档的电子试卷。绝大部分家长都懵圈，少部分家长尝试用扫描和文字识别，但是碰到公式就基本没辙了。</p><p>于是在iPad上的App Store里找数学公式软件，很愉快地一路把公式做进Word里。</p><p>走到了Markdown，没有理由不把这个经验分享给同学们。同时，首次在Markdown中使用LaTeX语法，在写作这篇文档的时候，进一步感受到了Word这样的<del>文档写作老坦克</del>是如何的笨重，而==Markdown==是如何能让写手更**<em>专注**</em>于<u>内容</u>本身。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Markdown支持LaTeX数学公式语法，iPad上有支持编辑公式的软件，两者结合可以迅速制作公式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;Markdown内公式语法&quot;&gt;&lt;a href=&quot;#Markdown内公式语法&quot; c</summary>
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://justinwu1973.github.io/categories/Markdown/"/>
+    
+    
+    <category term="技巧" scheme="http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>观雪</title>
-    <link href="http://justinwu1973.github.io/2020/12/15/watchingsnow/"/>
-    <id>http://justinwu1973.github.io/2020/12/15/watchingsnow/</id>
+    <link href="http://justinwu1973.github.io/2020/12/15/20-12-15watchingsnow/"/>
+    <id>http://justinwu1973.github.io/2020/12/15/20-12-15watchingsnow/</id>
     <published>2020-12-14T23:54:00.000Z</published>
     <updated>2020-12-14T23:55:29.036Z</updated>
     
@@ -46,36 +74,9 @@
   </entry>
   
   <entry>
-    <title>不寐听雨</title>
-    <link href="http://justinwu1973.github.io/2020/12/14/%E4%B8%8D%E5%AF%90%E5%90%AC%E9%9B%A8/"/>
-    <id>http://justinwu1973.github.io/2020/12/14/%E4%B8%8D%E5%AF%90%E5%90%AC%E9%9B%A8/</id>
-    <published>2020-12-13T16:00:00.000Z</published>
-    <updated>2020-12-13T23:45:52.913Z</updated>
-    
-    <content type="html"><![CDATA[<p>《不寐听雨》—–杨万里</p><p>雨到中霄寂不鸣，只闻风拂树梢轻。</p><p>瓦沟收拾残零水，并作檐间一滴声。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;《不寐听雨》—–杨万里&lt;/p&gt;
-&lt;p&gt;雨到中霄寂不鸣，只闻风拂树梢轻。&lt;/p&gt;
-&lt;p&gt;瓦沟收拾残零水，并作檐间一滴声。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="读书笔记" scheme="http://justinwu1973.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="摘抄" scheme="http://justinwu1973.github.io/tags/%E6%91%98%E6%8A%84/"/>
-    
-  </entry>
-  
-  <entry>
     <title>GitHub搭建过程中使用pure主题时遇到的问题与解决方案</title>
-    <link href="http://justinwu1973.github.io/2020/12/14/Pure%E4%B8%BB%E9%A2%98%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>http://justinwu1973.github.io/2020/12/14/Pure%E4%B8%BB%E9%A2%98%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <link href="http://justinwu1973.github.io/2020/12/14/20-12-14Pure%E4%B8%BB%E9%A2%98%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>http://justinwu1973.github.io/2020/12/14/20-12-14Pure%E4%B8%BB%E9%A2%98%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
     <published>2020-12-13T16:00:00.000Z</published>
     <updated>2020-12-14T15:49:38.661Z</updated>
     
@@ -100,9 +101,36 @@
   </entry>
   
   <entry>
+    <title>不寐听雨</title>
+    <link href="http://justinwu1973.github.io/2020/12/14/20-12-14%E4%B8%8D%E5%AF%90%E5%90%AC%E9%9B%A8/"/>
+    <id>http://justinwu1973.github.io/2020/12/14/20-12-14%E4%B8%8D%E5%AF%90%E5%90%AC%E9%9B%A8/</id>
+    <published>2020-12-13T16:00:00.000Z</published>
+    <updated>2020-12-13T23:45:52.913Z</updated>
+    
+    <content type="html"><![CDATA[<p>《不寐听雨》—–杨万里</p><p>雨到中霄寂不鸣，只闻风拂树梢轻。</p><p>瓦沟收拾残零水，并作檐间一滴声。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;《不寐听雨》—–杨万里&lt;/p&gt;
+&lt;p&gt;雨到中霄寂不鸣，只闻风拂树梢轻。&lt;/p&gt;
+&lt;p&gt;瓦沟收拾残零水，并作檐间一滴声。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://justinwu1973.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="摘抄" scheme="http://justinwu1973.github.io/tags/%E6%91%98%E6%8A%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Mac环境中利用模板自动生成新博客文章</title>
-    <link href="http://justinwu1973.github.io/2020/12/12/Mac%E4%B8%AD%E8%87%AA%E5%8A%A8%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://justinwu1973.github.io/2020/12/12/Mac%E4%B8%AD%E8%87%AA%E5%8A%A8%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://justinwu1973.github.io/2020/12/12/20-12-12Mac%E4%B8%AD%E8%87%AA%E5%8A%A8%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://justinwu1973.github.io/2020/12/12/20-12-12Mac%E4%B8%AD%E8%87%AA%E5%8A%A8%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-12-11T16:00:00.000Z</published>
     <updated>2020-12-12T15:03:21.090Z</updated>
     
@@ -126,9 +154,30 @@
   </entry>
   
   <entry>
+    <title>Markdown上下标写法</title>
+    <link href="http://justinwu1973.github.io/2020/12/11/20-12-11Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/"/>
+    <id>http://justinwu1973.github.io/2020/12/11/20-12-11Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/</id>
+    <published>2020-12-10T16:00:00.000Z</published>
+    <updated>2020-12-11T16:58:20.849Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown语法中上下标写法</p><p>语法: <code>A&lt;sub&gt;b&lt;/sub&gt;</code></p><p>显示效果：A<sub>b</sub></p><p>语法：<code>A&lt;sup&gt;b&lt;/sup&gt;</code></p><p>显示效果：A<sup>b</sup></p>]]></content>
+    
+    
+    <summary type="html">Markdown技巧</summary>
+    
+    
+    
+    <category term="Markdown" scheme="http://justinwu1973.github.io/categories/Markdown/"/>
+    
+    
+    <category term="技巧" scheme="http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>狗</title>
-    <link href="http://justinwu1973.github.io/2020/12/11/%E7%8B%97/"/>
-    <id>http://justinwu1973.github.io/2020/12/11/%E7%8B%97/</id>
+    <link href="http://justinwu1973.github.io/2020/12/11/20-12-11%E7%8B%97/"/>
+    <id>http://justinwu1973.github.io/2020/12/11/20-12-11%E7%8B%97/</id>
     <published>2020-12-10T16:00:00.000Z</published>
     <updated>2020-12-11T16:57:43.073Z</updated>
     
@@ -153,30 +202,9 @@
   </entry>
   
   <entry>
-    <title>Markdown上下标写法</title>
-    <link href="http://justinwu1973.github.io/2020/12/11/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/"/>
-    <id>http://justinwu1973.github.io/2020/12/11/Markdown%E4%B8%8A%E4%B8%8B%E6%A0%87%E5%86%99%E6%B3%95/</id>
-    <published>2020-12-10T16:00:00.000Z</published>
-    <updated>2020-12-11T16:58:20.849Z</updated>
-    
-    <content type="html"><![CDATA[<p>Markdown语法中上下标写法</p><p>语法: <code>A&lt;sub&gt;b&lt;/sub&gt;</code></p><p>显示效果：A<sub>b</sub></p><p>语法：<code>A&lt;sup&gt;b&lt;/sup&gt;</code></p><p>显示效果：A<sup>b</sup></p>]]></content>
-    
-    
-    <summary type="html">Markdown技巧</summary>
-    
-    
-    
-    <category term="Markdown" scheme="http://justinwu1973.github.io/categories/Markdown/"/>
-    
-    
-    <category term="技巧" scheme="http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>GitHub 博客搭建经验</title>
-    <link href="http://justinwu1973.github.io/2020/12/09/GitHub%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/"/>
-    <id>http://justinwu1973.github.io/2020/12/09/GitHub%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/</id>
+    <link href="http://justinwu1973.github.io/2020/12/09/20-12-09GitHub%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/"/>
+    <id>http://justinwu1973.github.io/2020/12/09/20-12-09GitHub%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/</id>
     <published>2020-12-09T06:54:18.000Z</published>
     <updated>2020-12-11T04:40:03.803Z</updated>
     
@@ -200,29 +228,9 @@
   </entry>
   
   <entry>
-    <title>Markdown学习笔记</title>
-    <link href="http://justinwu1973.github.io/2020/12/08/Markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>http://justinwu1973.github.io/2020/12/08/Markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
-    <published>2020-12-08T00:20:50.000Z</published>
-    <updated>2020-12-08T05:48:00.215Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="GitHub博客苹果平台搭建"><a href="#GitHub博客苹果平台搭建" class="headerlink" title="GitHub博客苹果平台搭建"></a>GitHub博客苹果平台搭建</h1><h2 id="1、GitHub设置"><a href="#1、GitHub设置" class="headerlink" title="1、GitHub设置"></a>1、GitHub设置</h2><pre><code>1、仓库建立时注意默认分支名称，在setting中需保持与config中一致。2、网页链接中”用户名/用户名.github.io”不要忘记是连续两个用户名。</code></pre><h2 id="2、Mac平台软件"><a href="#2、Mac平台软件" class="headerlink" title="2、Mac平台软件"></a>2、Mac平台软件</h2><pre><code>1、nodejs不要下载最新版本，直接进入以往版本下载12版pkg进行包安装，否则后面会报错。2、注意文件夹目录。3、出现权限错误，终端使用sudo命令取得权限。4、出现无法部署的情况，可以清掉.git隐藏文件夹，hexo clean，检查type：等冒号后空格数量，对照网上比较新的教程，基本都能解决。</code></pre><h2 id="3、跨平台"><a href="#3、跨平台" class="headerlink" title="3、跨平台"></a>3、跨平台</h2><pre><code>1、iPad上可以使用多种免费或收费的markdown软件，通过“文件”编辑iCloud中的MD文件。2、iPad上无法使用终端命令生成静态网页并部署，该步骤仍需回到Mac上操作，但是鉴于MacBook键盘的糟糕体验，专注于写作的时候不妨用iPad Pro加妙控键盘，非常舒服。</code></pre><h2 id="4、对学生党的建议"><a href="#4、对学生党的建议" class="headerlink" title="4、对学生党的建议"></a>4、对学生党的建议</h2><pre><code>1、进行一项任务时，最好手边备个本子随手记录过程中碰到的问题和所有失败的解决方案，今后复盘时可以分析原因作为前车之鉴。2、通过markdown的运用，养成良好的文章写作习惯：提纲、形式、内容。</code></pre><p>  Justin Wu</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;GitHub博客苹果平台搭建&quot;&gt;&lt;a href=&quot;#GitHub博客苹果平台搭建&quot; class=&quot;headerlink&quot; title=&quot;GitHub博客苹果平台搭建&quot;&gt;&lt;/a&gt;GitHub博客苹果平台搭建&lt;/h1&gt;&lt;h2 id=&quot;1、GitHub设置&quot;&gt;&lt;a hr</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://justinwu1973.github.io/2020/12/07/hello-world/"/>
-    <id>http://justinwu1973.github.io/2020/12/07/hello-world/</id>
+    <link href="http://justinwu1973.github.io/2020/12/07/20-12-07hello-world/"/>
+    <id>http://justinwu1973.github.io/2020/12/07/20-12-07hello-world/</id>
     <published>2020-12-07T14:19:31.541Z</published>
     <updated>2020-12-11T05:20:56.400Z</updated>
     
