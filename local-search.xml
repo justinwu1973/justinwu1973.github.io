@@ -254,13 +254,25 @@
   
   
   <entry>
-    <title>Hello World</title>
+    <title>Hello World 插件仓库</title>
     <link href="/2020/12/07/20-12-07hello-world/"/>
     <url>/2020/12/07/20-12-07hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>Daddy is trying to say hello to the world.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p class="note note-primary">这是一个标签<br>这是标签的第二行</p><div class="note note-success">            <p>这是另一个标签<br> 这是另一个标签的第二行</p>          </div><a class="btn" href="https://justinwu1973.github.io"  title="山水堂" target="_blank">跳转到网页</a><a class="btn" href="https://hexo.fluid-dev.com/docs/guide/"  title="Fluid指南" target="_blank">跳转到Fluid指南</a><p>            <input type="checkbox" disabled checked="checked">打了一个勾          ]]></content>
+    <content type="html"><![CDATA[<figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs django"><span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;note note-primary&quot;</span>&gt;</span>这是一个标签<span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span>这是标签的第二行<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span></span><br><br><br><span class="hljs-template-tag">&#123;% <span class="hljs-name">note</span> success %&#125;</span><br><span class="xml">这是另一个标签<span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span></span><br><span class="xml">这是另一个标签的第二行</span><br><span class="hljs-template-tag">&#123;% <span class="hljs-name">endnote</span> %&#125;</span><br><br><span class="hljs-template-tag">&#123;% <span class="hljs-name">btn</span> https://justinwu1973.github.io, 跳转到网页, 山水堂 %&#125;</span><br><span class="hljs-template-tag">&#123;% <span class="hljs-name">btn</span> https://hexo.fluid-dev.com/docs/guide/, 跳转到Fluid指南, Fluid指南 %&#125;</span><br><span class="hljs-template-tag">&#123;% <span class="hljs-name">cb</span> 打了一个勾, true, false&#125; </span><br><span class="hljs-template-tag">接下来的文字换行</span><br></code></pre></td></tr></table></figure><p class="note note-primary">这是一个标签<br>这是标签的第二行</p><div class="note note-success">            <p>这是另一个标签<br> 这是另一个标签的第二行</p>          </div><a class="btn" href="https://justinwu1973.github.io"  title="山水堂" target="_blank">跳转到网页</a><a class="btn" href="https://hexo.fluid-dev.com/docs/guide/"  title="Fluid指南" target="_blank">跳转到Fluid指南</a><p>            <input type="checkbox" disabled checked="checked">打了一个勾          ]]></content>
     
     
+    <categories>
+      
+      <category>GitHub</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技巧</tag>
+      
+    </tags>
     
   </entry>
   
