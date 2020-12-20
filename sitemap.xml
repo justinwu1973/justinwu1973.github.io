@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://justinwu1973.github.io/2020/12/21/20-12-20MeetingRecord/</loc>
+    
+    <lastmod>2020-12-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://justinwu1973.github.io/2020/12/19/20-12-19GWGZ-1/</loc>
     
     <lastmod>2020-12-19</lastmod>
@@ -116,7 +123,7 @@
 
   <url>
     <loc>http://justinwu1973.github.io/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,35 +131,42 @@
   
   <url>
     <loc>http://justinwu1973.github.io/tags/%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/tags/Blog-building/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/tags/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/tags/%E6%91%98%E6%8A%84/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/tags/%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://justinwu1973.github.io/tags/%E5%8D%87%E5%AD%A6/</loc>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -161,28 +175,28 @@
   
   <url>
     <loc>http://justinwu1973.github.io/categories/GitHub/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/categories/Markdown/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/categories/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://justinwu1973.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
